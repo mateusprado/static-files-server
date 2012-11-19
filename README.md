@@ -1,4 +1,4 @@
 static-files-server
 ===================
 
-A webserver to serving files static using The Go Language
+A webserver to serving static files using The Go Language
